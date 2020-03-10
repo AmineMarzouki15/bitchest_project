@@ -17,6 +17,7 @@
 Route::get('/', function () {
     return view('welcome');
 });
+  
 
 // On a utilisé le module d'authentification par défaut de laravel l'instruction Auth::routes() permet de charger les routes d'autentification de Laravel
 Auth::routes();
