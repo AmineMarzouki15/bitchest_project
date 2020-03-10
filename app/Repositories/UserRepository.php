@@ -61,6 +61,7 @@ class UserRepository  {
         return $this->user::find($id);
     }
 
+
     /**
      * @param $id
      * @param $amount
