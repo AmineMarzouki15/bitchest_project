@@ -1,3 +1,7 @@
-La base de données est chargé vu que j'ai importé le mien en local, donc normalement lorsque le super Admin se connecte il peut à son tour 
-créer les role et les types d'utilisateur Exemple : 
-- On à le rore administrateur classique qui seront ici les agents de Bitchest et on à le role client qui seont ici les clients.
+
+points d'améliorations : 
+-	Utiliser une api externe pour avoir en temps réel l’évolution des cours d’une crypto-monnaies
+-	Intégrer un système de paiement pour permettre au utilisateur de charger leur solde
+-	Afficher dans la partie d’administration la liste des transactions effectué par les utilisateurs
+-	Donner la possibilité aux clients de vendre une quantité précise de cypto-monnaie
+ 
